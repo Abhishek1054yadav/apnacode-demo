@@ -1,2 +1,2 @@
-# apnacode-demo
-This is my first repository
+# abhicode-demo
+This is my first GIT repository
